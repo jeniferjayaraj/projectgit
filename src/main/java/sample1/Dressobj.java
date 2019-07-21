@@ -18,6 +18,7 @@ public class Dressobj extends BasePage1 {
 	public WebElement getdresses() {
 		return dressestab;
 }
+	
 public void clickDress() {
 	dressestab.click();
 }
