@@ -12,7 +12,7 @@ public class Dressobj extends BasePage1 {
 	public Dressobj() {
 		PageFactory.initElements(driver, this);
 	}
-	@FindBy(xpath = "//*[@id=\"block_top_menu\"]/ul/li[2]/a")
+	@FindBy(xpath = "//*[@id=\"block_top_menu\"]/ul/li[2]/a ")
 	private WebElement dressestab;
 	
 	public WebElement getdresses() {
