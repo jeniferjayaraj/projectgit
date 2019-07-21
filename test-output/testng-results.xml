@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17427" started-at="2019-07-19T20:58:33Z" finished-at="2019-07-19T20:58:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17427" started-at="2019-07-19T20:58:33Z" finished-at="2019-07-19T20:58:50Z">
+      <class name="Sample.Testobj">
+        <test-method status="PASS" signature="verifyDressesobj()[pri:0, instance:Sample.Testobj@57d7f8ca]" name="verifyDressesobj" duration-ms="5578" started-at="2019-07-19T13:58:33Z" finished-at="2019-07-19T13:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDressesobj -->
+        <test-method status="PASS" signature="verifycasualdress()[pri:0, instance:Sample.Testobj@57d7f8ca]" name="verifycasualdress" duration-ms="7079" started-at="2019-07-19T13:58:38Z" finished-at="2019-07-19T13:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycasualdress -->
+        <test-method status="PASS" signature="verifycount()[pri:0, instance:Sample.Testobj@57d7f8ca]" name="verifycount" duration-ms="60" started-at="2019-07-19T13:58:45Z" finished-at="2019-07-19T13:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycount -->
+        <test-method status="PASS" signature="verifysize()[pri:0, instance:Sample.Testobj@57d7f8ca]" name="verifysize" duration-ms="127" started-at="2019-07-19T13:58:45Z" finished-at="2019-07-19T13:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysize -->
+        <test-method status="PASS" signature="verifysubscription1()[pri:0, instance:Sample.Testobj@57d7f8ca]" name="verifysubscription1" duration-ms="4563" started-at="2019-07-19T13:58:46Z" finished-at="2019-07-19T13:58:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysubscription1 -->
+      </class> <!-- Sample.Testobj -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
